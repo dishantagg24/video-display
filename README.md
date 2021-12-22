@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
- <img  src="./Readme/github-preview.gif"> 
+ <img  src="./github-preview.gif"> 
 <br >
 <br/>
 
